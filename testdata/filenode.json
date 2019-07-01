@@ -1,0 +1,58 @@
+{
+    "name": "App Colors",
+    "lastModified": "2019-04-11T04:39:11.08526Z",
+    "thumbnailUrl": "http://image.example.com/example.png",
+    "version": "122981350",
+    "nodes": {
+      "1:2": {
+        "document": {
+          "id": "1:2",
+          "name": "Example",
+          "type": "RECTANGLE",
+          "blendMode": "PASS_THROUGH",
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": -190,
+            "width": 40,
+            "height": 40
+          },
+          "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+          },
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.20000000298023224,
+                "g": 0.20000000298023224,
+                "b": 0.20000000298023224,
+                "a": 1
+              }
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "strokeAlign": "CENTER",
+          "strokeJoin": "BEVEL",
+          "strokeMiterAngle": null,
+          "styles": {
+            "fill": "2:2"
+          },
+          "exportSettings": [],
+          "effects": [],
+          "cornerRadius": 3
+        },
+        "components": {},
+        "schemaVersion": 0,
+        "styles": {
+          "2:2": {
+            "key": "12345678910",
+            "name": "Gray 1",
+            "styleType": "FILL"
+          }
+        }
+      }
+    }
+  }
